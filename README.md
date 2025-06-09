@@ -25,7 +25,7 @@ Welcome to my data portfolio! I'm a Business Analyst passionate about turning da
 
 | Project | Focus | Description |
 |--------|-------|-------------|
-| [📊 Cisco Stock Case Study]([https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study](https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study/blob/main/README.md)) | Equity Analysis | Used SQL to clean, transform, and analyze historical stock performance data, including return trends, volatility, and patterns over time. |
+| [📊 Cisco Stock Case Study](https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study/blob/main/README.md) | Stock Market Analytics | SQL case study on Cisco's historical stock data — includes trend analysis, performance metrics, and returns using SQL queries. |
 
 
 ---

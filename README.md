@@ -1,4 +1,4 @@
-#Business Analytics Portfolio
+# Business Analytics Portfolio
 
 Welcome to my data portfolio! I'm a Business Analyst passionate about turning data into actionable insights. This repository highlights projects where I’ve used analytical tools and data storytelling to support business decision-making.
 

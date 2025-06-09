@@ -1,10 +1,10 @@
-# 📊 Malagheel's Business Analytics Portfolio
+# Malagheel's Business Analytics Portfolio
 
 Welcome to my data portfolio! I'm a Business Analyst passionate about turning data into actionable insights. This repository highlights projects where I’ve used analytical tools and data storytelling to support business decision-making.
 
 ---
 
-## 📑 Table of Contents
+## Table of Contents
 
 - [Dashboards](#dashboards)
 - [SQL Analysis](#sql-analysis)
@@ -21,16 +21,16 @@ Welcome to my data portfolio! I'm a Business Analyst passionate about turning da
 
 ---
 
-## 📊 SQL Analysis
+## SQL Analysis
 
 | Project | Focus | Description |
 |--------|-------|-------------|
-| [📊 Cisco Stock Case Study](https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study) | Equity Analysis | Used SQL to clean, transform, and analyze historical stock performance data, including return trends, volatility, and patterns over time. |
+| [📊 Cisco Stock Case Study]([https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study](https://github.com/Malagheel/Cisco-Stock-SQL-Case-Study/blob/main/README.md)) | Equity Analysis | Used SQL to clean, transform, and analyze historical stock performance data, including return trends, volatility, and patterns over time. |
 
 
 ---
 
-## 🐍 Python Projects
+## Python Projects
 
 | Script | Purpose | Description |
 |--------|---------|-------------|
@@ -38,15 +38,15 @@ Welcome to my data portfolio! I'm a Business Analyst passionate about turning da
 
 ---
 
-## 📝 Downloadable Reports
+## Downloadable Reports
 
-- 📂 CSV export functionality in Streamlit dashboards  
-- 📊 Filtered transaction tables by date and category  
-- 💡 Interactive charts showing KPI trends
+- CSV export functionality in Streamlit dashboards  
+- Filtered transaction tables by date and category  
+- Interactive charts showing KPI trends
 
 ---
 
-## 💼 About Me
+## About Me
 
 I'm a Business Analyst with experience in:
 
@@ -57,7 +57,7 @@ I'm a Business Analyst with experience in:
 
 ---
 
-## 🔧 How to Use This
+##  How to Use This
 
 ```bash
 # Clone the finance dashboard project

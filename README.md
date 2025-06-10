@@ -1,6 +1,6 @@
 # Business Analytics Portfolio
 
-Welcome to my portfolio! I'm a Business Analyst passionate about bridging the gap between business needs and technical solutions. This repository highlights my skills in both data-driven analysis and process-driven systems analysis.
+Welcome to my portfolio. I'm a Business Analyst passionate about bridging the gap between business needs and technical solutions. This repository highlights my skills in both data-driven analysis and process-driven systems analysis.
 
 ---
 
@@ -43,8 +43,7 @@ Welcome to my portfolio! I'm a Business Analyst passionate about bridging the ga
 
 | Project | Focus | Description |
 | :--- | :--- | :--- |
-|  [Physio Portal Enhancement]([./physio-portal-project/README.md](https://github.com/Malagheel/physiotherapy-exercise-prescription-project/blob/main/README.md)) | Requirements Gathering, Process Mapping, QA Planning | A complete project defining a new 'Online Exercise Prescription' feature. Includes a Change Request, Functional Specifications, DFD, and a full Test Plan. |
-
+|  [Physiotherapy Portal Enhancement](https://github.com/Malagheel/physiotherapy-exercise-prescription-project) | Requirements Gathering, Process Mapping, QA Planning | A complete project defining a new 'Online Exercise Prescription' feature. Includes a Change Request, Functional Specifications, DFD, and a full Test Plan. |
 
 ---
 

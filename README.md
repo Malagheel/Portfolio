@@ -14,7 +14,7 @@ Welcome to my portfolio! I'm a Business Analyst passionate about bridging the ga
 
 ---
 
-## 🧾 Dashboards
+##  Dashboards
 
 | Project | Date | Tools | Description |
 |--------|------|-------|-------------|
@@ -39,11 +39,11 @@ Welcome to my portfolio! I'm a Business Analyst passionate about bridging the ga
 
 ---
 
-## ⚙️ Business & Systems Analysis
+##  Business & Systems Analysis
 
 | Project | Focus | Description |
 | :--- | :--- | :--- |
-| 📄 [Physio Portal Enhancement](./physio-portal-project/README.md) | Requirements Gathering, Process Mapping, QA Planning | A complete project defining a new 'Online Exercise Prescription' feature. Includes a Change Request, Functional Specifications, DFD, and a full Test Plan. |
+|  [Physio Portal Enhancement]([./physio-portal-project/README.md](https://github.com/Malagheel/physiotherapy-exercise-prescription-project/blob/main/README.md)) | Requirements Gathering, Process Mapping, QA Planning | A complete project defining a new 'Online Exercise Prescription' feature. Includes a Change Request, Functional Specifications, DFD, and a full Test Plan. |
 
 
 ---

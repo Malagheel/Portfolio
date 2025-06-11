@@ -18,7 +18,7 @@ Welcome to my portfolio. I'm a Business Analyst passionate about bridging the ga
 
 | Project | Date | Tools | Description |
 |--------|------|-------|-------------|
-
+| [Fleet Utilisation Dashboard](https://github.com/Malagheel/fleet-utilisation-dashboard) | Power BI, Cost Analysis, Operational Reporting | Simulates a fleet performance dashboard with KPIs for vehicle utilisation, cost per km, fuel efficiency, and maintenance. Built using synthetic Dynamics 365-style data to support CFO-level decision-making. |
 
 ---
 

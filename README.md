@@ -42,7 +42,7 @@ Welcome to my portfolio. I'm a Business Analyst passionate about bridging the ga
 
 | Project | Focus | Description |
 |--------|-------|-------------|
-| [📘 Agile Requirements Hub – University Portal Case Study](https://github.com/Malagheel/university-portal-modernization/blob/main/README.md) | Agile Delivery, HCD, BA Planning | A full BA case study simulating the modernization of a university portal. Includes workshop design, personas, empathy mapping, user stories, sprint planning, and retrospective — all structured for Agile delivery and stakeholder collaboration. |
+| [ Agile Requirements Hub – University Portal Case Study](https://github.com/Malagheel/university-portal-modernization/blob/main/README.md) | Agile Delivery, HCD, BA Planning | A full BA case study simulating the modernization of a university portal. Includes workshop design, personas, empathy mapping, user stories, sprint planning, and retrospective — all structured for Agile delivery and stakeholder collaboration. |
 
 
 ---

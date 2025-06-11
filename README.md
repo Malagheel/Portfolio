@@ -52,6 +52,7 @@ Welcome to my portfolio. I'm a Business Analyst passionate about bridging the ga
 | Project | Focus | Description |
 | :--- | :--- | :--- |
 |  [Physiotherapy Portal Enhancement](https://github.com/Malagheel/physiotherapy-exercise-prescription-project) | Requirements Gathering, Process Mapping, QA Planning | A complete project defining a new 'Online Exercise Prescription' feature. Includes a Change Request, Functional Specifications, DFD, and a full Test Plan. |
+| [Council Digital Services Portal](https://github.com/Malagheel/council-digital-portal) | Requirements Analysis, UAT, Stakeholder Mapping | Simulates a local government portal project including full lifecycle BA deliverables—scope definition, user stories, wireframes, process flows, and UAT test planning—professionally documented in GitHub. |
 
 ---
 

@@ -1,4 +1,4 @@
-# Business Analytics Portfolio
+# Malagheels Business Analytics Portfolio
 
 Welcome to my portfolio. I'm a Business Analyst passionate about bridging the gap between business needs and technical solutions. This repository highlights my skills in both data-driven analysis and process-driven systems analysis.
 

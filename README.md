@@ -35,7 +35,7 @@ Welcome to my portfolio. I'm a Business Analyst passionate about bridging the ga
 
 | Script | Purpose | Description |
 |--------|---------|-------------|
-| [GenAI Business Assistant](https://github.com/Malagheel/genai-business-assistant) | AI-Powered Requirements Generator | Transforms business problems into structured technical specifications using Generative AI. Built with Python and Streamlit, the app generates Business Requirements, AI Use Cases, Architecture Diagrams, and more — perfect for BA/PMs looking to accelerate discovery and planning. |
+| [GenAI Business Assistant](https://github.com/Malagheel/genai-business-assistant) | AI-Powered Requirements Generator | Transforms business problems into structured technical specifications using Generative AI. Built with Python and Streamlit, the app generates Business Requirements, AI Use Cases, Architecture Diagrams, and more  perfect for BA/PMs looking to accelerate discovery and planning. |
 ---
 
 ## Agile Delivery & Requirements Projects
